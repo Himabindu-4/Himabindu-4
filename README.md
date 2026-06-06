@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 🎓 B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Jain University** with a CGPA of **9.2/10**.
 
@@ -31,7 +31,7 @@ I am actively seeking opportunities as:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -58,7 +58,7 @@ I am actively seeking opportunities as:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🧠 Aspect-Based Sentiment Analysis
 
@@ -82,7 +82,7 @@ AI-driven job recommendation platform that matches resumes and job descriptions 
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 🏅 Top 5 Position – Sarvagnya Hackathon (Cryptocurrency-Based Project)
 
@@ -94,7 +94,7 @@ AI-driven job recommendation platform that matches resumes and job descriptions 
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 * Generative AI
 * LLM Engineering
@@ -102,7 +102,7 @@ AI-driven job recommendation platform that matches resumes and job descriptions 
 
 ---
 
-## 💡 Interests
+##  Interests
 
 * Artificial Intelligence
 * Machine Learning
@@ -117,7 +117,7 @@ I enjoy designing logos and building products that combine creativity with techn
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himabindu-4&show_icons=true&theme=tokyonight" />
@@ -133,7 +133,7 @@ I enjoy designing logos and building products that combine creativity with techn
 
 ---
 
-## 🤝 Open To
+##  Open To
 
 * Internships
 * AI & ML Projects
