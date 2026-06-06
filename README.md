@@ -12,9 +12,9 @@
 
 💡 Strong knowledge in **Machine Learning, NLP, Deep Learning, Data Analytics, SQL, Java, Python, TF-IDF, Vector Search, BERT Models, and Time Series Forecasting**.
 
-🔬 Experienced in developing AI-powered applications, sentiment analysis systems, and forecasting models using **SARIMA** and modern NLP frameworks.
+🔬 Experienced in developing AI-powered applications, sentiment analysis systems, and forecasting models using **SARIMA** .
 
-🌱 Currently exploring **Generative AI, LangChain, LLM Engineering, AWS, and Retrieval-Augmented Generation (RAG)**.
+🌱 Currently exploring **Generative AI, LLM Engineering and Retrieval-Augmented Generation (RAG)**.
 
 🎯 Passionate about solving real-world problems through intelligent and data-driven solutions.
 
@@ -45,13 +45,10 @@ I am actively seeking opportunities as:
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
 ![BERT](https://img.shields.io/badge/BERT-yellow?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-orange?style=for-the-badge)
 
 ### Frameworks & Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -100,9 +97,7 @@ AI-driven job recommendation platform that matches resumes and job descriptions 
 ## 📚 Currently Learning
 
 * Generative AI
-* LangChain
 * LLM Engineering
-* AWS
 * Retrieval-Augmented Generation (RAG)
 
 ---
