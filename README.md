@@ -67,6 +67,13 @@ AI-powered NLP system that extracts product aspects from customer reviews and pr
 🔗 GitHub: https://github.com/Himabindu-4/absa-dashboard
 
 ---
+### 💼 Smart Hire – AI Job Portal
+
+AI-driven job recommendation platform that matches resumes and job descriptions using NLP, TF-IDF, and cosine similarity.
+
+🔗 GitHub: https://github.com/Noor-Ilma/Smart-Hire-Job-Portal-AI
+
+---
 
 ### ⚡ Household Power Consumption Forecasting using ARIMA & Exponential Smoothing
 
@@ -75,14 +82,6 @@ Built an end-to-end time series forecasting project on over 2 million household 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn, Google Colab
 
 🔗 GitHub: https://github.com/Himabindu-4/Arima
-
----
-
-### 💼 Smart Hire – AI Job Portal
-
-AI-driven job recommendation platform that matches resumes and job descriptions using NLP, TF-IDF, and cosine similarity.
-
-🔗 GitHub: https://github.com/Noor-Ilma/Smart-Hire-Job-Portal-AI
 
 ---
 
