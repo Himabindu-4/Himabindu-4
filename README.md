@@ -68,9 +68,13 @@ AI-powered NLP system that extracts product aspects from customer reviews and pr
 
 ---
 
-### 📈 India Surface Temperature Forecasting Using SARIMA
+### ⚡ Household Power Consumption Forecasting using ARIMA & Exponential Smoothing
 
-Analyzed India's land surface temperature trends from 1900–2013 and built forecasting models using SARIMA. Achieved 98.5% forecasting accuracy with a MAPE of 1.52%.
+Built an end-to-end time series forecasting project on over 2 million household electricity consumption records from the UCI dataset. Applied data preprocessing, moving averages, seasonal decomposition, ADF stationarity testing, Exponential Smoothing, and ARIMA(1,1,1) models to forecast future power consumption. Compared forecasting performance using MAE and RMSE, with ARIMA achieving the most accurate predictions.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn, Google Colab
+
+🔗 GitHub: https://github.com/Himabindu-4/Arima
 
 ---
 
