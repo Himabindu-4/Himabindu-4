@@ -60,11 +60,13 @@ I am actively seeking opportunities as:
 
 ##  Featured Projects
 
-### 🧠 Aspect-Based Sentiment Analysis
+### 🤖 AI SQL Copilot
 
-AI-powered NLP system that extracts product aspects from customer reviews and predicts sentiment using BERT-based models. Includes FastAPI backend, PostgreSQL database, React dashboard, batch CSV processing, and real-time analytics.
+AI-powered Business Intelligence platform that converts natural language questions into SQL queries and executes them on PostgreSQL databases. Features interactive data visualizations, AI-generated insights, query history, dashboard widgets, CSV export, and multi-workspace support using Next.js, TypeScript, PostgreSQL, Plotly, and Claude AI.
 
-🔗 GitHub: https://github.com/Himabindu-4/absa-dashboard
+🔗 GitHub: https://github.com/Himabindu-4/ai-sql-copilot
+
+🌐 Live Demo: https://ai-sql-copilot-917ksjld2-himabindu-4s-projects.vercel.app/
 
 ---
 ### 💼 Smart Hire – AI Job Portal
